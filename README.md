@@ -82,11 +82,15 @@ Press `Ctrl-L` to clear the screen. This is useful when you are already typing s
 | `Ctrl-H` | delete character to the left of the cursor  |
 | `Ctrl-Y` | paste the last deleted text                 |
 
-> Example use-case:
+Example use-case:
 <details>
+  
 <summary>
 You are typing a command and forgot to add a positional arguments
 </summary>
+  
+<div>
+  
 ```bash
 $ find . -name "*.js" -exec cat {} \; # <-- your cursor is there
 ```
@@ -95,8 +99,10 @@ If you want to add -maxdepth 1 after the `.` you can do it by:
 - `Alt-F` to jump forward one word
 - `Ctrl-B` to jump backward one character
 - Insert the arguments  
-
+</div>
+  
 > Seems like a lot of work, but it should make you faster once you get used to it.
+  
 </details>
 
 **Execute the line but keep the line after execution**  
