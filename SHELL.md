@@ -4,7 +4,7 @@
 - [Shell](#shell)
   - [Shell Shortcuts](#shell-shortcuts)
   - [Scripting](#scripting)
-  - 
+
 ### Shell vs Terminal
 > **terminal** -> text input/output environment  
 > **console** -> physical terminal (ancient stuff)  
